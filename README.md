@@ -3,7 +3,7 @@
 侯捷 | 13176244325 | z.g.13@163.com | h.j.13.new@gmali.com
 
 # 基本信息
-<img src="wechat.png" width = "15%" align=right>
+<img src="wechat.png" width = "18%" align=right>
 
 - 男 22岁 汉族        
 - 手机 : 13176244325        
@@ -108,4 +108,4 @@
 
 # QR Code
 <img src="tim.png" width = "30%">
-<img src="wechat.png" width = "30%" align=right>
+<img src="wechat.png" width = "30%">
