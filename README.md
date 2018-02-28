@@ -93,7 +93,7 @@
 
 # 专业技能
 
-熟练掌握Python，有丰富的分布式、多线程、数据库、并发及网络开发经验。       
+熟练掌握Python，有部分并发、分布式、数据库、socket及tornado开发经验。       
 有丰富的Linux使用经验，熟练掌握git、vim、linux基本命令、shell脚本与配置经验
 熟悉C/C++，了解常见的设计模式、makefile，有简单的qt及socket开发经验。      
 熟悉常用的算法、数据结构。        
