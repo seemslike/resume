@@ -98,10 +98,10 @@
 
 熟练掌握Python，有部分并发、分布式(AMQP)、数据库、socket、MySQLdb、Scrapy及pika开发经验。        
 有丰富的Linux使用经验，熟练掌握git、vim、linux基本命令与配置经验。熟悉shell脚本。     
-有tornado,flask(Python WEB框架)后台及RESTful风格API开发经验。                
-熟悉C/C++，了解常见的设计模式、makefile，有简单的qt及socket开发经验。      
+有tornado,flask(Python WEB框架)后台及RESTful风格API开发经验。                    
+熟悉C/C++，了解常见的设计模式、了解cmake，有简单的qt及socket开发经验。      
 熟悉常用的算法、数据结构。        
-本科在实验室期间维护优化大型分布式数据库，对MySQL数据库略有理解与心得及较多的实践及优化经历。拥有ElasticSearch、Redis开发经历。       
+本科在实验室期间维护优化大型分布式数据库，对MySQL数据库略有理解与心得及较多的实践及优化经历。有ElasticSearch、Redis开发经历。   
 
 # 自我描述
 
