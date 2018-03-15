@@ -14,7 +14,7 @@
 
 # 实习经历
 ### 哈尔滨工业大学 网络与信息安全技术研究中心       
-*2015.10 — 至今*      
+*2015.10 — 至今*
 域名体系安全技术研究室 恶意域名组   
 
 作为研究室核心成员，主要负责域名安全相关工作，包括域名基础数据获取，恶意域名挖掘，基础数据统计分析；另外，负责研究室数据库的维护、设计与优化等工作。
@@ -35,7 +35,7 @@
 
 - 基于水平、垂直拆分的MySQL数据库与同步ElasticSearch服务器作为存储架构
 - 基于tornado构建的HTTPS的api数据中间层
-- 基于token的身份认证机制
+- 基于token的无状态api身份认证机制
 - RESUful 风格api
 - 优化的数据库操作及数据缓存机制
 
@@ -98,10 +98,9 @@
 
 熟练掌握Python，有部分并发、分布式(AMQP)、数据库、socket、MySQLdb、Scrapy及pika开发经验。        
 有丰富的Linux使用经验，熟练掌握git、vim、linux基本命令与配置经验。熟悉shell脚本。     
-有tornado,flask(Python WEB框架)后台及RESTful风格API开发经验。                    
-熟悉C/C++，了解常见的设计模式、了解cmake，有简单的qt及socket开发经验。      
-熟悉常用的算法、数据结构。        
-本科在实验室期间维护优化大型分布式数据库，对MySQL数据库略有理解与心得及较多的实践及优化经历。有ElasticSearch、Redis开发经历。   
+有tornado(Python WEB框架)后台及RESTful风格API开发经验。                    
+熟悉C++，熟悉常用的算法、数据结构。有简单的qt及socket开发经验。                
+本科期间维护与优化实验室核心数据库，对MySQL数据库略有理解与心得及较多的实践及优化经历。有简单的ElasticSearch、Redis开发经历。       
 
 # 自我描述
 
